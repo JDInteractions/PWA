@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../62711 PWA.srcs/sources_1/new/LogicCircuit_1Bit.vhd" \
+"../../../../62711 PWA.srcs/sources_1/new/LogicCircuit_8Bit.vhd" \
+"../../../../62711 PWA.srcs/sim_1/new/LogicCircuit_8Bit_TB.vhd" \
+
+# Do not sort compile order
+nosort

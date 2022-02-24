@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/FunctionUnit_8Bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FunctionUnit_8Bit
+INFO: [VRFC 10-163] Analyzing VHDL file "/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/Shifter_1Bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Shifter_1Bit

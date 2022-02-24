@@ -1,0 +1,28 @@
+0.6
+2018.2
+Jun 14 2018
+20:07:38
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sim_1/new/ALU_8Bit_TB.vhd,1645196749,vhdl,,,,alu_8bit_tb,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sim_1/new/Arithmetic_TB.vhd,1645097102,vhdl,,,,arithmetic_circuit_tb,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sim_1/new/FullAdder8Bit_TB.vhd,1645200444,vhdl,,,,fulladder8bit_tb,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sim_1/new/FullAdderTB.vhd,1644491293,vhdl,,,,fulladdertb,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sim_1/new/FunctionUnit_TB.vhd,1645295382,vhdl,,,,functionunit_8bit_tb,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sim_1/new/LogicCircuit_8Bit_TB.vhd,1645115740,vhdl,,,,logiccircuit_8bit_tb,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sim_1/new/Logic_B_1Bit_TB.vhd,1645090304,vhdl,,,,logic_b_1bit_tb,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sim_1/new/Shifter_1Bit_TB.vhd,1645277331,vhdl,,,,shifter_1bit_tb,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sim_1/new/Shifter_8Bit_TB.vhd,1645437777,vhdl,,,,shifter_8bit_tb,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/ALU_8Bit.vhd,1645292345,vhdl,,,,alu_8bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/Arithmetic_Circuit.vhd,1645193255,vhdl,,,,arithmetic_circuit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/FullAdder.vhd,1645287699,vhdl,,,,fulladder1bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/FullAdder8Bit.vhd,1645096233,vhdl,,,,fulladder8bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/FunctionUnit_8Bit.vhd,1645693106,vhdl,,,,functionunit_8bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/LogicCircuit_1Bit.vhd,1645292446,vhdl,,,,logiccircuit_1bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/LogicCircuit_8Bit.vhd,1645116497,vhdl,,,,logiccircuit_8bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/Logic_B_1Bit.vhd,1645091235,vhdl,,,,logic_b_1bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/Logic_B_8Bit.vhd,1645193250,vhdl,,,,logic_b_8bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/Mux2TO1.vhd,1645286697,vhdl,,,,mux2to1_1bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/Mux2TO1_8Bit.vhd,1645286978,vhdl,,,,mux2to1_8bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/Mux3TO1.vhd,1645294254,vhdl,,,,mux3to1_1bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/Mux4TO1.vhd,1645437386,vhdl,,,,mux4to1_1bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/Shifter_1Bit.vhd,1645693265,vhdl,,,,shifter_1bit,,,,,,,,
+/zhome/31/7/156274/4semester/62711 PWA/62711 PWA.srcs/sources_1/new/Shifter_8Bit.vhd,1645288104,vhdl,,,,shifter_8bit,,,,,,,,

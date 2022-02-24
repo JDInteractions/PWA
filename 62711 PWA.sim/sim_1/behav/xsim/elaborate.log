@@ -1,0 +1,28 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: /zhome/06/1/78900/Xilinx/Vivado/2018.2/bin/unwrapped/lnx64.o/xelab -wto d18c155abc5a43c0b26dd82869141910 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot FunctionUnit_8Bit_tb_behav xil_defaultlib.FunctionUnit_8Bit_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.Logic_B_1Bit [logic_b_1bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.Logic_B_8Bit [logic_b_8bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.FullAdder1Bit [fulladder1bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.FullAdder8Bit [fulladder8bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.Arithmetic_Circuit [arithmetic_circuit_default]
+Compiling architecture behavioral of entity xil_defaultlib.LogicCircuit_1Bit [logiccircuit_1bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.LogicCircuit_8Bit [logiccircuit_8bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.Mux2TO1_1Bit [mux2to1_1bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.Mux2TO1_8Bit [mux2to1_8bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALU_8Bit [alu_8bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.Shifter_1Bit [shifter_1bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.Shifter_8Bit [shifter_8bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.FunctionUnit_8Bit [functionunit_8bit_default]
+Compiling architecture bench of entity xil_defaultlib.functionunit_8bit_tb
+Built simulation snapshot FunctionUnit_8Bit_tb_behav

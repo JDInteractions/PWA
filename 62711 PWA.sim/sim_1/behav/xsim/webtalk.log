@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Feb 23 12:51:38 2022
+# Process ID: 15396
+# Current directory: /zhome/31/7/156274/4semester/62711 PWA/62711 PWA.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /zhome/31/7/156274/4semester/62711 PWA/62711 PWA.sim/sim_1/behav/xsim/xsim.dir/FunctionUnit_8Bit_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /zhome/31/7/156274/4semester/62711 PWA/62711 PWA.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /zhome/31/7/156274/4semester/62711 PWA/62711 PWA.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /zhome/31/7/156274/4semester/62711 -notrace
+couldn't read file "/zhome/31/7/156274/4semester/62711": no such file or directory
+INFO: [Common 17-206] Exiting Webtalk at Wed Feb 23 12:51:38 2022...
